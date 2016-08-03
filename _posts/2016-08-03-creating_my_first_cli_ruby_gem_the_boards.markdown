@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Creating my First CLI Ruby Gem. The Boards"
-date:   2016-08-03 19:24:27 +0000
+date:   2016-08-03 15:24:27 -0400
 ---
 
 
