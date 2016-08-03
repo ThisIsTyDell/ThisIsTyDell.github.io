@@ -14,7 +14,7 @@ The_Boards is a CLI ruby gem that pulls in data directly from the billboard char
 
 > "DO WHAT YOU KNOW! YOU KNOW MUSIC! GO MAKE SOMETHING DOPE!"
 
-### Installation and Usage
+## Installation and Usage
 This cli gem is simple but effective and has one major task. Just provide dope songs weekly. The gem can be found on [RubyGems](https://rubygems.org/gems/the_boards) or installed though your terminal or gemfile with the following:
 
 > Add this line to your application's Gemfile:
@@ -73,7 +73,7 @@ See you next week for more songs!!!
 ```
 
 
-### In Conclusion
+## In Conclusion
 Hope you found this blog to be informative and entertaining. This is my first ruby cli gem. Feel free to use it in your next project. If you find any bugs or have suggestions that could make it even better, shoot me an email at branden@thisistydell.com or find me on [GitHub](http://www.github.com/thisistydell) - www.github.com/thisistydell
 
 Here's an example on [YouTube](http://https://www.youtube.com/watch?v=BSKO9q4qslE). https://www.youtube.com/watch?v=BSKO9q4qslE 
