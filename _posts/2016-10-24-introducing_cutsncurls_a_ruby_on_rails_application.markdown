@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Introducing CutsNCurls, a Ruby on Rails Application"
-date:   2016-10-24 23:59:39 +0000
+date:   2016-10-24 19:59:39 -0400
 ---
 
-> ***TL,DR*** *"CutsNCurls is an application for hair salons and barbershops to manage clients, and allow clients to schedule appointments. YouTube Video below, or link right here"
+> ***TL,DR*** *"CutsNCurls is an application for hair salons and barbershops to manage clients, and allow clients to schedule appointments. YouTube Video below, or link right here [Walkthrough Video](http://https://www.youtube.com/watch?v=LUV3sodtUaQ)"
 > *
 
 I was tasked with creating a Ruby on Rails application that manages related data through complex forms and RESTful routes. The goal of the application is to build a Content Management System. Before creating the app I needed to figure out what I was going to make and HOW!? So I went to social media and to my family. Asking random people what type of app they wish they had.
