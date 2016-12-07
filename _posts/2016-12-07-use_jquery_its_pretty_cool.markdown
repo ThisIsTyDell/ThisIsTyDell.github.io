@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Use jQuery, It's Pretty Cool   "
-date:   2016-12-07 18:29:17 +0000
+title:  "Use jQuery and AJAX, It's Pretty Cool   "
+date:   2016-12-07 13:29:17 -0500
 ---
 
 
