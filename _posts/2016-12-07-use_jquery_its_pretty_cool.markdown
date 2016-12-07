@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Use jQuery and AJAX, It's Pretty Cool   "
+title:  "Use jQuery and AJAX, It's Pretty Cool plus it saved the Universe  "
 date:   2016-12-07 13:29:17 -0500
 ---
 
